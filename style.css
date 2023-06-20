@@ -101,7 +101,6 @@ ul li {
 }
 .feature-image {
     align-items: center;
-    margin-left: 70px;
 }
 #team {
     background: var(--background-color-5);
@@ -151,22 +150,17 @@ ul li {
     font-weight: 700;
     margin-bottom: 20px;
 }
-.contact-form {
-    padding-bottom: 30px;
-    width: 440px;
-}
 .contact-form form input {
     text-align: center;
     align-items: center;
     border: none;
     border-radius: 10px;
-    padding: 0px 100px;
+    padding: 0px 50px;
     font-family: poppins;
     font-size: 16px;
     font-weight: 400;
     display: block;
     margin-bottom: 15px;
-    margin-left: 20px;
     box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.5);
 }
 .contact-form form input:nth-child(1) {
@@ -181,8 +175,6 @@ ul li {
     margin: 20px;
 }
 .maps iframe {
-    max-width: 350px;
-    max-height: 400px;
     box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.5);
 }
 footer {
