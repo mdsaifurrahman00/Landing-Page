@@ -75,6 +75,12 @@ ul li {
     border-radius: 40px;
 
 }
+.hero-image {
+    max-width: 300px;
+}
+.hero-image img {
+    width: 100%;
+}
 #feature {
     background: var(--background-color-2);
     color: var(--text-color);
