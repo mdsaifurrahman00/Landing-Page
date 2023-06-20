@@ -108,6 +108,8 @@ ul li {
 .feature-image {
     align-items: center;
     max-width: 300px;
+    margin: auto;
+    display: block;
 }
 .feature-image img {
     width: 100%;
