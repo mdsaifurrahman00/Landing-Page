@@ -107,6 +107,10 @@ ul li {
 }
 .feature-image {
     align-items: center;
+    max-width: 300px;
+}
+.feature-image img {
+    width: 100%;
 }
 #team {
     background: var(--background-color-5);
