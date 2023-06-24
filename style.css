@@ -238,24 +238,24 @@ footer p {
     .box1::before {
         content: "";
         background: var(--background-color-1);
-        width: 86px;
-        height: 168px;
+        width: 55px;
+        height: 165px;
         display: block;
         position: absolute;
         top: -109px;
-        left: -112px;
+        left: -117px;
     }
     .box2::before {
         content: "";
         background: url(dots.png);
         background-repeat: no-repeat;
         background-size: contain;
-        width: 200px;
-        height: 100px;
+        width: 100px;
+        height: 75px;
         display: block;
         position: absolute;
-        top: 19px;
-        left: -50px;
+        top: 10px;
+        left: -107px;
     }
     .feature-list ul {
         margin: 0px;
@@ -285,10 +285,13 @@ footer p {
     .contact-form h3 {
         font-size: 28px;
     }
-    .contact-form{
+    .contact-form form{
         width: 447px;
     }
     .contact-form form input {
+        width: 100%;
+    }
+    textarea#massage{
         width: 100%;
     }
     .contact-form form button {
