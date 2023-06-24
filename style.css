@@ -162,7 +162,7 @@ ul li {
     margin-bottom: 20px;
 }
 .contact-form form input {
-    width: 447px;
+    width: 350px;
     margin-bottom: 20px;
     padding: 15px;
     border: none;
@@ -279,7 +279,6 @@ footer p {
         flex-direction: row;
         justify-content: space-between;
     }
-
     .contact-form h3 {
         font-size: 28px;
     }
