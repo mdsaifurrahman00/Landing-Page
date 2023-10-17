@@ -236,14 +236,14 @@ footer p {
         position: relative;
     }
     .box1::before {
-        content: "";
-        background: var(--background-color-1);
-        width: 55px;
-        height: 165px;
-        display: block;
-        position: absolute;
-        top: -109px;
-        left: -117px;
+    content: "";
+    background: var(--background-color-1);
+    width: 70px;
+    height: 165px;
+    display: block;
+    position: absolute;
+    top: -122px;
+    left: -142px;
     }
     .box2::before {
         content: "";
